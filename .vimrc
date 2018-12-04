@@ -1,4 +1,4 @@
-all plug#begin('~/.vim/plugged')
+call plug#begin('~/.vim/plugged')
 Plug 'Valloric/YouCompleteMe'
 Plug 'vim-syntastic/syntastic'
 Plug 'drewtempelmeyer/palenight.vim'
