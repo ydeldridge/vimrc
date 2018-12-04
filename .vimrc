@@ -24,4 +24,3 @@ set autoindent
 set smartindent
 set backspace=indent,eol,start
 set encoding=utf-8
-let g:ycm_python_interpretor_path = '/u/css/eldridgeyd/python/bin/python3'
