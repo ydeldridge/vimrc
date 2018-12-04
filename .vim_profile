@@ -1,0 +1,4 @@
+alias gvim="~/.local/bin/gvim"
+alias vim="~/.local/bin/vim"
+
+[[ -r ~/.bashrc ]] && . ~/.bashrc
